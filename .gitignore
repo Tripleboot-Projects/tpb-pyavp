@@ -1,0 +1,9 @@
+# Ignore .pytest_cache directory
+.pytest_cache/
+
+# Ignore Python caches
+__pycache__/
+
+# Ignore VSCode workspace configurations
+.vscode/
+pyavs.code-workspace

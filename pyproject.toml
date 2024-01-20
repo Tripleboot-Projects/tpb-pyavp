@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "pyavp"
+version = "0.1.0"
+description = ""
+authors = ["ARMANDO CONTRERAS <coc@tripleboot.de>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+boto3 = "^1.34.21"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
